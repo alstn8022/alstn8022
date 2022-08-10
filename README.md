@@ -1,3 +1,3 @@
-*A common Korean highschool student.*
+**A common Korean highschool student.**
 Too much homework.
 Tired.
