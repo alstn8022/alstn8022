@@ -1,4 +1,4 @@
-## **A common Korean highschool student.**
+## A common Korean highschool student.
 Noob Programmer
 
 ## Currently Studying
@@ -6,3 +6,4 @@ Noob Programmer
 
 ## Caution
 My Code May Still Contain Bugs :)
+~~BalJeokWha Master~~
