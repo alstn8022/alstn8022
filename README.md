@@ -1,3 +1,8 @@
 **A common Korean highschool student.**
-Too much homework.
-Tired.
+Noob Programmer
+
+## Currently Studying
+[Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## Caution
+My Code May Still Contain Bugs :)
