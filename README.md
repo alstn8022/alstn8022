@@ -6,9 +6,9 @@
 <img src="https://img.shields.io/badge/Korean%20High%20School%20Curriculum-292929?style=for-the-badge&logo="/>
 
 # Caution
-My Code May Still Contain Bugs :)
+* My Code May Still Contain Bugs :)
 
-~~BalJeokWha Master~~
+* ~~BalJeokWha Master~~
 
 # JUDGE
 ## This Link Is For Fast Access to Iui Judge.
