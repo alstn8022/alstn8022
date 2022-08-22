@@ -11,6 +11,6 @@
 * ~~BalJeokWha Master~~
 
 # JUDGE
-## This Link Is For Fast Access to Iui Judge.
+## This Link Is For Direct Access To The Iui Judge.
 
 [ICODI JUDGE](http://1.238.69.9:7500)
