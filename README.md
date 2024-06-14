@@ -9,8 +9,3 @@
 * My Code May Contain Some Bugs :)
 
 * ~~BalJeokWha Master~~
-
-# JUDGE
-## This Link Is For Direct Access To The Iui Judge.
-
-[ICODI JUDGE](http://1.238.69.9:7500)
