@@ -1,4 +1,4 @@
-# A Common Korean High School Student
+# A Common Korean Student
 **Noob Programmer.**
 
 # Currently Studying
